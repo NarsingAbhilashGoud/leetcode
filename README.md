@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/NarsingAbhilashGoud/leetcode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/NarsingAbhilashGoud/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/NarsingAbhilashGoud/leetcode/tree/master/0070-climbing-stairs) |
+| [0326-power-of-three](https://github.com/NarsingAbhilashGoud/leetcode/tree/master/0326-power-of-three) |
 ## Hash Table
 |  |
 | ------- |
@@ -73,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/NarsingAbhilashGoud/leetcode/tree/master/0070-climbing-stairs) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/NarsingAbhilashGoud/leetcode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
