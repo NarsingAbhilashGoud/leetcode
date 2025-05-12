@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/NarsingAbhilashGoud/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/NarsingAbhilashGoud/leetcode/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/NarsingAbhilashGoud/leetcode/tree/master/0326-power-of-three) |
+| [1013-fibonacci-number](https://github.com/NarsingAbhilashGoud/leetcode/tree/master/1013-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/NarsingAbhilashGoud/leetcode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/NarsingAbhilashGoud/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NarsingAbhilashGoud/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1013-fibonacci-number](https://github.com/NarsingAbhilashGoud/leetcode/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -75,10 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/NarsingAbhilashGoud/leetcode/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/NarsingAbhilashGoud/leetcode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/NarsingAbhilashGoud/leetcode/tree/master/0326-power-of-three) |
+| [1013-fibonacci-number](https://github.com/NarsingAbhilashGoud/leetcode/tree/master/1013-fibonacci-number) |
 ## Sliding Window
 |  |
 | ------- |
