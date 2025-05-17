@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/NarsingAbhilashGoud/leetcode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/NarsingAbhilashGoud/leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/NarsingAbhilashGoud/leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/NarsingAbhilashGoud/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NarsingAbhilashGoud/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/NarsingAbhilashGoud/leetcode/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/NarsingAbhilashGoud/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/NarsingAbhilashGoud/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/NarsingAbhilashGoud/leetcode/tree/master/0643-maximum-average-subarray-i) |
+## Simulation
+|  |
+| ------- |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/NarsingAbhilashGoud/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 <!---LeetCode Topics End-->
