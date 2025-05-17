@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/NarsingAbhilashGoud/leetcode/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/NarsingAbhilashGoud/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/NarsingAbhilashGoud/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/NarsingAbhilashGoud/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/NarsingAbhilashGoud/leetcode/tree/master/0069-sqrtx) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/NarsingAbhilashGoud/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Memoization
 |  |
 | ------- |
@@ -98,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/NarsingAbhilashGoud/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+## Counting
+|  |
+| ------- |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/NarsingAbhilashGoud/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
