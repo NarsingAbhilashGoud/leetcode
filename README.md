@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/NarsingAbhilashGoud/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/NarsingAbhilashGoud/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/NarsingAbhilashGoud/leetcode/tree/master/0070-climbing-stairs) |
+| [0258-add-digits](https://github.com/NarsingAbhilashGoud/leetcode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/NarsingAbhilashGoud/leetcode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/NarsingAbhilashGoud/leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/NarsingAbhilashGoud/leetcode/tree/master/1236-n-th-tribonacci-number) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/NarsingAbhilashGoud/leetcode/tree/master/0258-add-digits) |
 | [0498-diagonal-traverse](https://github.com/NarsingAbhilashGoud/leetcode/tree/master/0498-diagonal-traverse) |
 | [0861-flipping-an-image](https://github.com/NarsingAbhilashGoud/leetcode/tree/master/0861-flipping-an-image) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/NarsingAbhilashGoud/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -128,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/NarsingAbhilashGoud/leetcode/tree/master/0861-flipping-an-image) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/NarsingAbhilashGoud/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
