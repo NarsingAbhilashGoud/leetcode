@@ -138,12 +138,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/NarsingAbhilashGoud/leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/NarsingAbhilashGoud/leetcode/tree/master/0101-symmetric-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/NarsingAbhilashGoud/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NarsingAbhilashGoud/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/NarsingAbhilashGoud/leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/NarsingAbhilashGoud/leetcode/tree/master/0101-symmetric-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/NarsingAbhilashGoud/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NarsingAbhilashGoud/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Search Tree
@@ -154,10 +156,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/NarsingAbhilashGoud/leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/NarsingAbhilashGoud/leetcode/tree/master/0101-symmetric-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/NarsingAbhilashGoud/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NarsingAbhilashGoud/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/NarsingAbhilashGoud/leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/NarsingAbhilashGoud/leetcode/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
